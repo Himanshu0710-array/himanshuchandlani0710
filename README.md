@@ -27,8 +27,7 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [Learvista](www.himanshu.buzz) | University management system with fees, tests, and attendance features. | HTML, CSS, Bootstrap, jQuery, PHP, MySQL
-| 
+| [Learvista](www.himanshu.buzz) | University management system with fees, tests, and attendance features. | HTML, CSS, Bootstrap, jQuery, PHP, MySQL 
 ---
 
 ## 🌐 Connect with Me
