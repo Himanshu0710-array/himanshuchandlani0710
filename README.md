@@ -23,15 +23,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshuchandlani0710-array&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=himanshuchandlani0710-array&theme=radical" alt="GitHub Streak" height="180px"/>
-</p>
-
----
-
 ## 🔥 Featured Projects
 
 | Project | Description | Tech Stack |
